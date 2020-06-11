@@ -1,4 +1,4 @@
-package LR7;
+package Web;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

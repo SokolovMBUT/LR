@@ -1,9 +1,8 @@
-package LR7;
+package Web;
 
 import java.io.IOException;
 import java.util.ArrayList;
 
-import static java.lang.System.exit;
 
 public class Crawler {
 
