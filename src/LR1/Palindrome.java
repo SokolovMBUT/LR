@@ -19,7 +19,7 @@ public class Palindrome {
         return m.toString();
     }
     public static void isPalindrome(String s) {
-        if(s.equals(reverseString(s))) System.out.println("Полиндром");
-        else System.out.println("Не полиндром");
+        if(s.equals(reverseString(s))) System.out.println("Палиндром");
+        else System.out.println("Не палиндром");
     }
 }
